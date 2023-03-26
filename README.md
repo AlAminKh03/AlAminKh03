@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Airbnb**
+- 🔭 I’m currently looking for a job opportunity
 
 - 🌱 I’m currently learning **Express.js**
 
-- 🤝 I’m looking for help with **frontend or backend**
-
-- 👨‍💻 All of my projects are available at [https://al-amin-khan.netlify.app/](https://al-amin-khan.netlify.app/)
+- 👨‍💻 All of my projects are available at [(https://github.com/AlAminKh03)](https://github.com/AlAminKh03)
 
 - 💬 Ask me about **MERN**
 
